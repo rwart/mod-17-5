@@ -1,5 +1,5 @@
 # mod-17-5
-Simple Express.js application with static files
+Simple Express.js application with middleware
 
 run `npm install`  
 
